@@ -1,0 +1,68 @@
+{
+  "files": [
+    {
+      "request": "static/player-build/0.gm2player.js",
+      "path": "0.gm2player.js"
+    },
+    {
+      "request": "static/player-build/2e982506ca4af528140e.worker.js",
+      "path": "2e982506ca4af528140e.worker.js"
+    },
+    {
+      "request": "static/player-build/gm2assets/3682b35e452a7f4a5a61167d1632e24a.ttf",
+      "path": "gm2assets/3682b35e452a7f4a5a61167d1632e24a.ttf"
+    },
+    {
+      "request": "static/player-build/gm2assets/64bcfe1f13fce38e2ea26280157ff2ce.ttf",
+      "path": "gm2assets/64bcfe1f13fce38e2ea26280157ff2ce.ttf"
+    },
+    {
+      "request": "static/player-build/gm2assets/7f65f9f75cac24275d27477e0b51fb4a.svg",
+      "path": "gm2assets/7f65f9f75cac24275d27477e0b51fb4a.svg"
+    },
+    {
+      "request": "static/player-build/gm2assets/87a3a62c0627e925b92d3ede2f62b04f.ttf",
+      "path": "gm2assets/87a3a62c0627e925b92d3ede2f62b04f.ttf"
+    },
+    {
+      "request": "static/player-build/gm2assets/8996930d8e83f63cc3341172205df460.otf",
+      "path": "gm2assets/8996930d8e83f63cc3341172205df460.otf"
+    },
+    {
+      "request": "static/player-build/gm2assets/9ec3449723269a806ec6eaba0f8f6cef.ttf",
+      "path": "gm2assets/9ec3449723269a806ec6eaba0f8f6cef.ttf"
+    },
+    {
+      "request": "static/player-build/gm2assets/9efb6eff35e7911ca9df21eb00c28e15.svg",
+      "path": "gm2assets/9efb6eff35e7911ca9df21eb00c28e15.svg"
+    },
+    {
+      "request": "static/player-build/gm2assets/bbc0dd79717bfa338a199bb26cdd780b.ttf",
+      "path": "gm2assets/bbc0dd79717bfa338a199bb26cdd780b.ttf"
+    },
+    {
+      "request": "static/player-build/gm2assets/eb64e706eb7a3b324ba50d3279a980b1.ttf",
+      "path": "gm2assets/eb64e706eb7a3b324ba50d3279a980b1.ttf"
+    },
+    {
+      "request": "static/player-build/gm2assets/f7aceb264f771788b55c3ce038678124.ttf",
+      "path": "gm2assets/f7aceb264f771788b55c3ce038678124.ttf"
+    },
+    {
+      "request": "static/player-build/gm2player.js",
+      "path": "gm2player.js"
+    },
+    {
+      "request": "static/player-build/index.html",
+      "path": "index.html"
+    },
+    {
+      "request": "static/player-build/js/extension-worker/extension-worker.d44a4a3967fccff9b749.js",
+      "path": "js/extension-worker/extension-worker.d44a4a3967fccff9b749.js"
+    },
+    {
+      "request": "static/player-build/project.js",
+      "path": "project.js"
+    }
+  ]
+}
