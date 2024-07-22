@@ -1,0 +1,43 @@
+body {
+	font-family:arial;
+	background:#fffbeb;
+}
+.buttonOrange {
+	color:white;
+	border-radius:8px;
+	width:auto;
+	height:35px;
+	border:none;
+	font-weight:bold;
+	background-color:#ffcb3d;
+	transition:0.07s;
+	border-style:solid;
+	border-width: 2px;
+	border-color: #b89128;
+}
+.buttonOrange:hover {
+	background-color:#ba993d;
+	cursor:pointer;
+}
+.packager-div {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: calc((100vw - 150px) / -2);
+	width: calc(100vw - 150px);
+	background:#ffffff;
+	min-height: calc(100vh - 10px);
+	border-color:#d9d9d9;
+	border-style:solid;
+	border-radius:10px;
+	border-width:5px;
+}
+.infoDiv {
+	width: 100%;
+	height: fit-content;
+	min-height: 70px;
+	background: rgba(256,196,25,0.3);
+	margin-bottom:2px;
+	margin-top:2px;
+	border-radius: 10px;
+}
